@@ -6,3 +6,5 @@ while contador < 5:
 	contador += 1
 	
 print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
+print("Wilder Lionel Menchú Calderón")
+print("1518222")
